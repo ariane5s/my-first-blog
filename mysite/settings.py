@@ -25,7 +25,7 @@ SECRET_KEY = '$_k3(ux1sp#6eqz$q!b#*coc)le5qj5w@+i^z*fj8u(ecougw_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Ariane5s>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'Ariane5s.pythonanywhere.com']
 
 
 # Application definition
